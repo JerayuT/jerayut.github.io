@@ -1,6 +1,6 @@
-Website Portfolio to display basic information, projects, and experiences
-
-Main files include:__
-index.html__
-main.css__
+Main files include:<br>
+index.html<br>
+main.css<br>
 main.js
+
+Built using HTML5, CSS3, JS
