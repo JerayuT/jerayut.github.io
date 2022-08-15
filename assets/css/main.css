@@ -166,11 +166,15 @@ input, select, textarea {
 		font-size: 300%;
 		align-self: left;
 	}
-	.subtitle{
-		position: left;
+
+	.subtitle p{
+		text-align: left;
 	}
 	.contact{
 		color: #3e3e3e;
+	}
+	.subtexts{
+		text-align: left;
 	}
 	bold{
 		font-weight: 600
