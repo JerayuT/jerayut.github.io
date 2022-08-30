@@ -1,5 +1,7 @@
 # Personal Portfolio
 
+This site was built with the intention of creating a personal portfolio to display basic information about myself, my projects, and experiences.
+
 Main files include:<br>
 index.html<br>
 main.css<br>
